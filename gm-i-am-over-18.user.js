@@ -290,7 +290,7 @@
         case 'letsdoeit.com':
             c('div.sc-rkkkdv-0 button'); break;
         case 'lustery.com':
-            c('button.AdultContentNotification_continueLink___TRRa'); break;
+            c('button.AdultContentNotification_continueLink___TVlY'); break;
         case 'www.myfreecams.com':
             c('#enter_desktop'); break;
         case 'olecams.com':
