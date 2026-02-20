@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            I am over 18 - Jaxon
+// @name            I am over 18
 // @author          tsaiid
 // @namespace       http://tsai.it/project/gmscripts/i-am-over-18/
 // @homepageURL     https://github.com/tsaiid/gm-i-am-over-18
